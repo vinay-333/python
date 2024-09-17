@@ -1,0 +1,4 @@
+class vinay:
+    age=23
+v1=vinay()
+print(v1.age)
